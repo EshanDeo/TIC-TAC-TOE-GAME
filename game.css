@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(Picsart_24-08-02_15-19-56-351.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: left;
+    color: aqua;
+.head {
+    color: chartreuse;
+    text-underline-offset: 0.5;
+}
+}
+.main {
+    text-align: down;
+    
+}
+.press {
+    background-color: black;
+    size: 100%;
+    right: 50%;
+    top: 31%;
+    height: 60vh;
+    height: 60vh;
+    position: absolute;
+    color: bisque;
+    
+}
+.sentence {
+    color: blanchedalmond;
+}
+.button {
+    height: 20vh;
+    width: 20vh;
+    gap: 1.5vmin;
+    align-items: center;
+    align-content: right ;
+}
+.hello {
+    font-size: 150%;
+    right: 10%;
+    
+}
+.head{
+    font-size: 110%;
+    font-family: sans-serif;
+    gap: 2.5vmin;
+}
+.reset {
+    background-color: black;
+    position: absolute;
+    left: 32.5%;
+    top: 95%;
+    box-sizing: border-box;
+    
+}
